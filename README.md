@@ -51,7 +51,7 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=JH1201&bg_color=180,f9ebec,00000000&title_color=000000&text_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api?username=JH1201&show_icons=true&theme=gruvbox" />
         <a href="https://solved.ac/wlgns120100/">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgns120100">
         </a>
