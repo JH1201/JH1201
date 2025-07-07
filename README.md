@@ -4,7 +4,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JH1201&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/JH1201"
-  width="9000"
+  width="900"
   height="300"
 />
 </a>
@@ -13,8 +13,8 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JH1201&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/JH1201?pet-id=725354160313700370"
-    width="9000"
-    height="120"
+    width="500"
+    height="80"
   />
 </a>
 
