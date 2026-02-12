@@ -2,9 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<br/>
-
-<div align="center">
+<!--<div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   <img src="https://img.shields.io/static/v1?message=jihoon001201@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
 </div>
@@ -44,4 +42,4 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JH1201&utm_content=line">
     <img src="https://render.gitanimals.org/lines/JH1201?pet-id=725354160313700370" width="900" height="100" />
   </a>
-</div>
+</div>-->
