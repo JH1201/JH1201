@@ -9,10 +9,9 @@
   <img src="https://img.shields.io/static/v1?message=jihoon001201@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
 </div>
 
-<br/>
-<br/>
+<br/><br/>
 
-<h2 align="left">Language and tools</h2>
+<!--<h2 align="left">Language and tools</h2>
 
 <table>
   <tr>
@@ -74,10 +73,9 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH1201&layout=compact" height="180" />
     </td>
   </tr>
-</table>
+</table>-->
 
-<br/>
-<br/>
+<br/><br/>
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JH1201&utm_content=farm">
